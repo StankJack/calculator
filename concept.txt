@@ -1,0 +1,15 @@
+usd 
+aud 
+cad 
+euro 
+to inr (all inr addition)
+
+
+
+Exchange Rate API === (red mountaine) update once a day
+Your API Key: 61ce55377605b3c9ee7ae9e7
+Example Request: bb
+
+
+
+3f0fc22d55-566709393c-r8vycj
