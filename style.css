@@ -400,30 +400,30 @@ input[type=number]::-webkit-outer-spin-button {
 
 
     input[type="number"] {
-        width:7rem;
-        height: 4rem;
+        width: 8.5rem;
+        height: 5rem;
     }
     .containerThree{
         margin-left: 10.5rem;
     }
     .containerThree input[type="number"]{
-        width:9rem;
+        width:10rem;
     }
 
 
 
     .sectionTwo .containerOne h3{
 
-        font-size: 2.5rem;
+        font-size: 2rem;
     }
     
     .sectionTwo .containerOne img{
-    width: 4rem;
+    width: 3.5rem;
     height: auto;
     }
     .sectionTwo .containerTwo iframe {
-    width: 100%;
-    height:450px; 
+    width: 200px;
+    height:400px; 
     }
     
 }
