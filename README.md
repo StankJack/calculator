@@ -1,2 +1,2 @@
 # calculator
-# git@github.com:StankJack/calculator.git
+# https://stankjack.github.io/calculator/
